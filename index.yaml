@@ -2,8 +2,25 @@ apiVersion: v1
 entries:
   deepinspect:
   - apiVersion: v2
+    appVersion: v0.1.0-rc8
+    created: "2026-06-14T14:54:19.801617687Z"
+    description: DeepInspect AI Governance Platform — full-stack umbrella chart
+    digest: e1fa1d20f32743622bd4f105475a9714b323dc3edf9ce07ae7d61460532d1bfb
+    keywords:
+    - ai
+    - gateway
+    - security
+    - multi-tenant
+    maintainers:
+    - name: DeepInspect Team
+    name: deepinspect
+    type: application
+    urls:
+    - https://deepinspectteam.github.io/charts/deepinspect-0.1.0-rc8.tgz
+    version: 0.1.0-rc8
+  - apiVersion: v2
     appVersion: v0.1.0-rc7
-    created: "2026-06-08T13:53:54.744416-04:00"
+    created: "2026-06-14T14:54:19.799201913Z"
     description: DeepInspect AI Governance Platform — full-stack umbrella chart
     digest: 56afb5d0154c6a3068e285a0505d6a96a9141fc1bb6b16f96a3e72305a5c1757
     keywords:
@@ -18,4 +35,4 @@ entries:
     urls:
     - https://deepinspectteam.github.io/charts/deepinspect-0.1.0-rc7.tgz
     version: 0.1.0-rc7
-generated: "2026-06-08T13:53:54.740787-04:00"
+generated: "2026-06-14T14:54:19.795867338Z"
